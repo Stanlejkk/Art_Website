@@ -1,1 +1,1 @@
-# Stanleyjkk.github.io
+# Website for the talented Painter and artist Natalia Baranowska
