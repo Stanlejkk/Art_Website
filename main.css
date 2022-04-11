@@ -69,3 +69,10 @@ body.gallery {
 body.contact {
   background-color: black;
 }
+
+/* Contact Form */
+
+#form-message-success {
+  color: #55A44E;
+  font-size: 18px;
+  font-weight: bold; }
