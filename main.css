@@ -59,7 +59,7 @@ body {
 /* Backgrounds */
 
 body.home {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/pics/twarz.png');
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/pics/natalkafin.png');
 }
 
 body.gallery {
